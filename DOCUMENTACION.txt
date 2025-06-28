@@ -1,0 +1,16 @@
+usar XAMPP 8.2
+
+después de instalar XAMPP 
+
+lo corres
+
+pegas la carpeta contable en htdocs
+
+subis la base datos sistema_contable a phpadmin
+a importas y la importas, si lo vas a correr en local no hay que cambiar nada
+si lo corres en algún hosting vas a config allí esta la configuración de la base de datos y le pones
+el usuario y la clave que le pongas en el hosting
+
+
+usuario bryan
+password bryan
